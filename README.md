@@ -1,2 +1,2 @@
 # My-portfolio
-A Portfolio created using HTML, CSS and JAVASCRIPT
+A Portfolio website created using HTML, CSS and JAVASCRIPT with Bootstrap as styling framework.
